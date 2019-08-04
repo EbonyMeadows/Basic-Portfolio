@@ -1,0 +1,36 @@
+/*
+Teal color #4aaaa5
+Regular font color #777777
+Main header background color #ffffff
+Main header border color #cccccc
+Footer background color #666666
+Main content background color #ffffff
+Main content border color #dddddd
+*/
+
+#header-area {
+    background-color: #ffffff;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+#header-name {
+    background-color: #4aaaa5;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#main-area {
+    background-color: #ffffff;
+    border: #dddddd;
+}
+
+#footer-area {
+    background-color: #666666;
+}
+
+#header-nav-bar {
+    float: right;
+}
